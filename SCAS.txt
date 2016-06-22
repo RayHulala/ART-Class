@@ -1,0 +1,2 @@
+id || name || status || tic || filedate || Tentative Settlement Date || Final Settlement Date || class period || settlement amount || case summary
+25677 || Reptron Electronics, Inc. || Dismissed || REPT || September 02, 1994 || N/A || N/A || March 29, 1994  to August 23, 1994 || N/A || ["Failure to disclose in the prospectus for Reptron's 3/28/94, that it would experience a steep drop in orders from its largest contract manufacturing company."]
